@@ -13,6 +13,6 @@ A simple Pong game developed with turtle module in Python.
 
 ### Screenshots
 <img src="/img/Start.PNG">
-<img src="/img/Pause.PNG">
 <img src="/img/Scores.PNG">
+<img src="/img/Pause.PNG">
 <img src="/img/Victory.PNG">
